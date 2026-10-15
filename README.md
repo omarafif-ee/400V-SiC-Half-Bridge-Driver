@@ -58,7 +58,7 @@ The secondary-side half-bridge switching cell was modeled and verified in LTspic
 | :--- | :-: | :--- | :--- | :--- | :--- |
 | **U1** | 1 | Isolated Gate Driver | SOIC-16W | Texas Instruments | `UCC21520DW` |
 | **Q1, Q2** | 2 | 900V SiC MOSFET | TO-247-3 | Wolfspeed | `C3M0120090D` |
-| **D1** | 1 | Bootstrap Diode | DO-41 Axial | Vishay / Generic | `UF4007` |
+| **D1** | 1 | Bootstrap Diode | DO-41 Axial | Generic | `UF4007` |
 | **D2, D3** | 2 | Turn-Off Diode | SOD-123 | Generic | `1N5819HW` |
 | **C8** | 1 | 100nF Snubber (630V) | Radial (P=15mm) | WIMA | `MKP1J031004B00KSSD` |
 | **R9, R10**| 2 | 220kΩ Bleeder (250V)| 0207 Axial | Yageo | `MFR-25FTE52-220K` |
