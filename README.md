@@ -7,7 +7,7 @@ This repository contains the hardware design, KiCad source files, manufacturing 
 
 The project explores layout considerations for wide-bandgap (WBG) power semiconductors, high-voltage spacing under IPC-2221B standards, asymmetric gate drive design, and transient verification in LTspice.
 
-📄 **[Read the Full Technical Report (PDF)](Documentation/Technical_Report_400V_SiC_Gate_Driver.pdf)**
+📄 **[Read the Full Technical Report (PDF)](Documentation/Technical Report - 400V SiC MOSFET Isolated Half-Bridge Gate Driver PCB.pdf)**
 
 ---
 
