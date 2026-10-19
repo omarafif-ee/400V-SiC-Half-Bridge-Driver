@@ -14,7 +14,7 @@ This project covers the design and simulation of a 400 V isolated half-bridge ga
 
 ## System Block Diagram
 
-![Block Diagram](Media/Block_Diagram.jpg)
+![Block Diagram](Media/Block_Diagram.png)
 
 The 5 V PWM inputs (PWM-A and PWM-B) are separated from the 400 V power stage by the 5.7 kVrms isolation barrier inside the UCC21520DW. On the secondary side, the driver switches Q1 and Q2 across the 400 V DC rail and GNDPWR to swing SW_NODE between 0 V and 400 V, using a bootstrap network to power the floating high-side drive.
 
